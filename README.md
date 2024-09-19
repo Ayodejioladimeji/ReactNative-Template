@@ -131,7 +131,6 @@ This template comes pre-installed with the following dependencies from `package.
   "@react-native/metro-config": "0.75.3",
   "@react-native/typescript-config": "0.75.3",
   "@types/react": "^18.3.7",
-  "@types/react-native-snap-carousel": "^3.8.11",
   "@types/react-native-vector-icons": "^6.4.18",
   "@types/react-test-renderer": "^18.3.0",
   "babel-jest": "^29.7.0",
@@ -165,14 +164,18 @@ Make sure the necessary build tools for Android and iOS are installed.
 
 ## App Icon and Splashscreen
 
-For **Android**, [click the link to watch a sample video](https://your-android-video-link.com).
+For **Android**, [click the link to watch a sample video]().
 
-For **iOS**, [click the link to watch a sample video](https://your-ios-video-link.com).
+For **iOS**, [click the link to watch a sample video]().
 
 ---
 
 ## Give it a star
 Don't forget to ⭐️ star the repository if you find it useful. Your support is appreciated!
+
+## Contribution
+
+Feel free to contribute by submitting issues, creating pull requests, or making feature requests. Together, we can make this a great starting point for React Native development!
 
 
 ## License
