@@ -6,7 +6,6 @@ export const colors = {
   secondarycolor: '#141414',
   sectioncolor: '#f1f9f5',
   textcolor: '#333333',
-  // bordercolor: '#727272ca',
   bordercolor: '#eaeaea',
   offwhite: '#fafafa',
   lightcolor: 'rgba(51, 51, 51, 0.5)',
