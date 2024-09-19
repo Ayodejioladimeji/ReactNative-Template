@@ -1,0 +1,11 @@
+{
+  "name": "sample-app",
+  "displayName": "sample-app",
+
+  "ios": {
+    "bundleIdentifier": "com.sample.app"
+  },
+  "android": {
+    "package": "com.sample.app"
+  }
+}
