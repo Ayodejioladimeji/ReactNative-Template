@@ -42,7 +42,11 @@ To upgrade to the latest React Native version or a specific version, follow the 
 ```bash
 npx react-native upgrade
 ```
-> Optional: Specify a version, e.g., `npx react-native upgrade 0.75.0`.
+> Optional: Specify a version, e.g., `npx react-native upgrade 0.75.0`. 
+
+## 
+> You might need to follow instructions here to upgrade your RN version
+[https://react-native-community.github.io/upgrade-helper]("")
 
 #### Step 2: Clean Native Projects
 Android:
